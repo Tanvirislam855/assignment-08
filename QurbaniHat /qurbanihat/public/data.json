@@ -1,0 +1,67 @@
+[
+  {
+    "id": 2,
+    "name": "Pabna Master Bull",
+    "type": "Cow",
+    "breed": "Pabna Breed",
+    "price": 185000,
+    "weight": 350,
+    "age": 4,
+    "location": "Pabna",
+    "description": "Premium quality Pabna breed bull. Organic feeding and excellent health.",
+    "image": "https://i.postimg.cc/example-cow2.jpg",
+    "category": "Premium"
+  },
+  {
+    "id": 3,
+    "name": "White Sahiwal Beauty",
+    "type": "Cow",
+    "breed": "Sahiwal",
+    "price": 250000,
+    "weight": 420,
+    "age": 3.5,
+    "location": "Sirajganj",
+    "description": "Stunning white Sahiwal cow. Large size and well-tempered for easy handling.",
+    "image": "https://i.postimg.cc/example-cow3.jpg",
+    "category": "Large Animal"
+  },
+  {
+    "id": 4,
+    "name": "Black Diamond Goat",
+    "type": "Goat",
+    "breed": "Black Bengal",
+    "price": 35000,
+    "weight": 25,
+    "age": 2,
+    "location": "Kushtia",
+    "description": "Pure Black Bengal goat. Famous for meat quality and perfect for small families.",
+    "image": "https://i.postimg.cc/example-goat1.jpg",
+    "category": "Small Animal"
+  },
+  {
+    "id": 5,
+    "name": "Brahman Cross Giant",
+    "type": "Cow",
+    "breed": "Brahman Cross",
+    "price": 450000,
+    "weight": 650,
+    "age": 4,
+    "location": "Dhaka",
+    "description": "Massive Brahman cross bull for a grand Qurbani celebration. Farm raised.",
+    "image": "https://i.postimg.cc/example-cow4.jpg",
+    "category": "Premium"
+  },
+  {
+    "id": 6,
+    "name": "Jamunapari Special",
+    "type": "Goat",
+    "breed": "Jamunapari",
+    "price": 55000,
+    "weight": 45,
+    "age": 2.5,
+    "location": "Rajshahi",
+    "description": "Tall and healthy Jamunapari goat. Beautiful long ears and active posture.",
+    "image": "https://i.postimg.cc/example-goat2.jpg",
+    "category": "Small Animal"
+  }
+]

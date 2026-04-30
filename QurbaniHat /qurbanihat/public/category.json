@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Local Deshi",
+    "slug": "local-deshi"
+  },
+  {
+    "id": 2,
+    "name": "Sahiwal",
+    "slug": "sahiwal"
+  },
+  {
+    "id": 3,
+    "name": "Brahman",
+    "slug": "brahman"
+  },
+  {
+    "id": 4,
+    "name": "Pabna Breed",
+    "slug": "pabna-breed"
+  },
+  {
+    "id": 5,
+    "name": "Black Bengal",
+    "slug": "black-bengal"
+  },
+  {
+    "id": 6,
+    "name": "Jamunapari",
+    "slug": "jamunapari"
+  },
+  {
+    "id": 7,
+    "name": "Large Animal",
+    "slug": "large-animal"
+  },
+  {
+    "id": 8,
+    "name": "Small Animal",
+    "slug": "small-animal"
+  },
+  {
+    "id": 9,
+    "name": "Premium",
+    "slug": "premium"
+  }
+]
